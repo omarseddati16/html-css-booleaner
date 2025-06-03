@@ -60,10 +60,12 @@ h2 {
 .tabella {
   margin-top: 15px;
   border-collapse: collapse;
+  text-align: left;
 }
 
 .tabella-scritte {
   width: 50%;
+
 }
 
 .Punti-neri {
