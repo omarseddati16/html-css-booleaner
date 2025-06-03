@@ -4,6 +4,26 @@
   margin: 0 auto;
 }
 
+h1 {
+  font-size: 38px;
+  margin-top: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: aqua;
+}
+
+.tim {
+  margin-top: 20px;
+}
+
+.scritta {
+  color: grey;
+  margin-top: 5px;
+  font-size: 19px;
+}
+
 .ristretta {
   height: 70px;
   text-align: left;
