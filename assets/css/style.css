@@ -1,0 +1,18 @@
+* {
+  margin: auto;
+  max-width: 1060px;
+  margin: 0 auto;
+}
+
+.ristretta {
+  height: 70px;
+  text-align: left;
+  margin-top: 90px;
+}
+
+.cima-box {
+  height: 170px;
+  width: ;
+  background-color: lightblue;
+  background-image: url(../css/img/pattern.png);
+}
