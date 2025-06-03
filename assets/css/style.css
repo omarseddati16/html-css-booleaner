@@ -13,6 +13,27 @@ a {
   color: aqua;
 }
 
+th {
+  color: white;
+}
+
+.altro-colore {
+  background-color: aqua;
+}
+
+.colore-tabella {
+  background-color: rgb(173, 230, 201);
+}
+
+.tabella {
+  margin-top: 15px;
+  border-collapse: collapse;
+}
+
+.tabella-scritte {
+  width: 50%;
+}
+
 .Punti-neri {
   margin-top: 20px;
   padding-left: 15px;
