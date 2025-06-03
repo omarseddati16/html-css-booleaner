@@ -1,5 +1,5 @@
 body {
-  max-width: 1260px;
+  max-width: 1060px;
   margin: 0 auto;
 }
 
@@ -23,6 +23,10 @@ footer {
 
 h2 {
   color: grey;
+}
+
+.posizione {
+  margin-top: 0px;
 }
 
 .bianco {
@@ -62,17 +66,16 @@ h2 {
 }
 
 .Punti-neri {
-  margin-top: 20px;
   padding-left: 15px;
 }
 
 .testo {
-  margin-top: 20px;
   font-size: 20px;
 }
 
 .scritta {
   color: grey;
+  margin-top: 0px;
 }
 
 .ristretta {
@@ -83,7 +86,7 @@ h2 {
 
 .cima-box {
   height: 170px;
-  width: ;
+  width: 1060px;
   background-color: lightblue;
   background-image: url(../css/img/pattern.png);
 }
