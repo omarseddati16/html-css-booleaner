@@ -1,5 +1,5 @@
-* {
-  max-width: 1060px;
+body {
+  max-width: 1260px;
   margin: 0 auto;
 }
 
@@ -15,6 +15,33 @@ a {
 
 th {
   color: white;
+}
+
+footer {
+  background-position: left;
+}
+
+h2 {
+  color: grey;
+}
+
+.bianco {
+  padding: 15px;
+  color: white;
+}
+
+.schema-box {
+  height: 200px;
+  width: 290px;
+  background-image: url(../css/img/graph.jpg);
+  background-color: aqua;
+}
+
+.immagini-box {
+  height: 200px;
+  width: 290px;
+  background-image: url(../css/img/monitor.jpg);
+  background-color: aqua;
 }
 
 .altro-colore {
@@ -44,14 +71,8 @@ th {
   font-size: 20px;
 }
 
-.tim {
-  margin-top: 20px;
-}
-
 .scritta {
   color: grey;
-  margin-top: 5px;
-  font-size: 19px;
 }
 
 .ristretta {
